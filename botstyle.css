@@ -1,0 +1,14 @@
+.btn-primary{
+    background-color: orange;
+}
+.btn-primary:hover{
+    background-color: black;
+}
+.container{
+    background-color: darkslategray;
+    border: 1px solid black;
+}
+.col{
+    background-color: whitesmoke;
+    border: 5px solid green;
+}
